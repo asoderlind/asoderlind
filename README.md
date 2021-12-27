@@ -1,3 +1,8 @@
+<h1>Axel Söderlind</h1>
+<p>Student of Engineering Physics at Linköping University</p>
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-söderlind-4861ab1ba/)
+
 <img width="575px" src="https://github-readme-stats.vercel.app/api?username=asoderlind&theme=dark&show_icons=true&count_private=true" />
 <!--
 **asoderlind/asoderlind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
