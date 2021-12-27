@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img width="575px" src="https://github-readme-stats.vercel.app/api?username=asoderlind&theme=dark&show_icons=true&count_private=true" />
 <!--
 **asoderlind/asoderlind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
